@@ -1,5 +1,5 @@
 #! /usr/bin/bash
-cd /home/moamen
+cd ~
 mkdir myDirectory
 cd myDirectory
 mkdir secondDirectory
