@@ -1,0 +1,3 @@
+the reason the file runs form any directory is that the path
+/usr/local/bin is in the PATH variable.If we run the command $PATH
+the directory will be in it.
