@@ -4,9 +4,9 @@ cmake_minimum_required(VERSION 3.22.1)
 project(Calculator VERSION 1.0
                   DESCRIPTION "build calculator app using cmake")
 
-SET(FILE "main.c")
+SET(SRCFILE "main.c")
 
-add_executable(calculator main.c)
+add_executable(calculator ${SRCFILE})
 
 target_include_directories(calculator PUBLIC ./Includes)
 
