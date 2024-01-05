@@ -1,2 +1,0 @@
-/usr/bin/ar qc libliboperation.a CMakeFiles/liboperation.dir/add.c.o CMakeFiles/liboperation.dir/div.c.o CMakeFiles/liboperation.dir/mod.c.o CMakeFiles/liboperation.dir/mult.c.o CMakeFiles/liboperation.dir/sub.c.o
-/usr/bin/ranlib libliboperation.a

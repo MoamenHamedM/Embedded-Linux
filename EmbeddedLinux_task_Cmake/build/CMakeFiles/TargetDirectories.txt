@@ -1,6 +1,0 @@
-/home/moamen/Tasks/E_Linux_tasks/Task_Cmake/build/CMakeFiles/calculator.dir
-/home/moamen/Tasks/E_Linux_tasks/Task_Cmake/build/CMakeFiles/edit_cache.dir
-/home/moamen/Tasks/E_Linux_tasks/Task_Cmake/build/CMakeFiles/rebuild_cache.dir
-/home/moamen/Tasks/E_Linux_tasks/Task_Cmake/build/library/CMakeFiles/liboperation.dir
-/home/moamen/Tasks/E_Linux_tasks/Task_Cmake/build/library/CMakeFiles/edit_cache.dir
-/home/moamen/Tasks/E_Linux_tasks/Task_Cmake/build/library/CMakeFiles/rebuild_cache.dir
